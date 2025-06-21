@@ -14,7 +14,6 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 2rem 3rem;
-    background: black;
 }
 
 .nav-right {
